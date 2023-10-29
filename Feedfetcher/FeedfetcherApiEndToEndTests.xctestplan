@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "57B05ABE-92C8-490B-B6FC-3EAEC54F2BB0",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "FeedfetcherApiEndToEndTests"
+      ],
+      "target" : {
+        "containerPath" : "container:Feedfetcher.xcodeproj",
+        "identifier" : "494F8F682AED7EAD0035B145",
+        "name" : "FeedfetcherApiEndToEndTests"
+      }
+    }
+  ],
+  "version" : 1
+}

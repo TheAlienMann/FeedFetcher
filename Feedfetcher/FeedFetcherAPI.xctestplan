@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "A5229ED9-E887-4EB6-8222-BEA469A1CAEB",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Feedfetcher.xcodeproj",
+      "identifier" : "49B931C32AE9190000A1FE26",
+      "name" : "FeedFetcherAPI"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Feedfetcher.xcodeproj",
+        "identifier" : "49B931CA2AE9190100A1FE26",
+        "name" : "FeedFetcherAPITests"
+      }
+    }
+  ],
+  "version" : 1
+}

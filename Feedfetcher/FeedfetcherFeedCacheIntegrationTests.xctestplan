@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "D5AAA28D-D3ED-4301-82CE-3E3718980C51",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Feedfetcher.xcodeproj",
+        "identifier" : "49DB5EDC2AEDAD32006FD43E",
+        "name" : "FeedfetcherFeedCacheIntegrationTests"
+      }
+    }
+  ],
+  "version" : 1
+}

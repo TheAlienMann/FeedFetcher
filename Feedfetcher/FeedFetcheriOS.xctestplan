@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "E8ADD0F6-6803-484C-945D-C8B6015AD576",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Feedfetcher.xcodeproj",
+      "identifier" : "494F8F302AEC3B010035B145",
+      "name" : "FeedFetcheriOS"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Feedfetcher.xcodeproj",
+        "identifier" : "494F8F372AEC3B020035B145",
+        "name" : "FeedFetcheriOSTests"
+      }
+    }
+  ],
+  "version" : 1
+}
